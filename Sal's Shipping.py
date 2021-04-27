@@ -46,5 +46,3 @@ def cheapest_shipping(weight):
  
 print(cheapest_shipping(4.8))
 print(cheapest_shipping(41.5))
-
-https://www.youtube.com/watch?time_continue=264&v=46_cL0O6xyQ&feature=emb_title
